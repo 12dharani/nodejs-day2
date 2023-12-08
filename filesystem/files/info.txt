@@ -1,0 +1,5 @@
+training day2
+Hello world from node from fs
+Hello world from node from fs1
+Hello world from node from fs2
+Hello world from node from fs3
